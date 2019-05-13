@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseScriptPapas", "DatabaseScriptPapas\DatabaseScriptPapas.csproj", "{27DE0933-8829-4BC5-BA00-1B94B52471ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DE0933-8829-4BC5-BA00-1B94B52471ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DE0933-8829-4BC5-BA00-1B94B52471ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DE0933-8829-4BC5-BA00-1B94B52471ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DE0933-8829-4BC5-BA00-1B94B52471ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C33393-FF25-4282-9FB1-30F43E59EFEB}
+	EndGlobalSection
+EndGlobal

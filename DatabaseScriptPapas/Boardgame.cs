@@ -57,7 +57,7 @@ namespace DatabaseScriptPapas
                 {
                     con.Open();
 
-                    SqlCommand command2 = new SqlCommand("Blabla", con);
+                    SqlCommand command2 = new SqlCommand("ViewGameLibrary", con);
                     //ret Blabla til navnet på vores stored procedure GetBoardgame;
                     command2.CommandType = CommandType.StoredProcedure;
 
